@@ -16,3 +16,5 @@
 
 ![image](https://user-images.githubusercontent.com/10006400/164298401-024c37e7-18de-4027-98d2-211226c30cd2.png)
 
+* [TypeScript版本](https://github.com/eskimotokyo/hdanswer)
+
