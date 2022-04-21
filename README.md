@@ -12,5 +12,9 @@
   > 1. 将游戏实现为类，创建实例时初始化原始分组状态和物品信息；
   > 2. “拿”走物品后，计算游戏是否结束。
 ***
-* 测试结果  
+* 测试结果   
+
+![image](https://user-images.githubusercontent.com/10006400/164298401-024c37e7-18de-4027-98d2-211226c30cd2.png)
+
+* [TypeScript版本](https://github.com/eskimotokyo/hdanswer)
 
